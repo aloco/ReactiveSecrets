@@ -8,7 +8,7 @@ Please note that this is not a pure beginners guide for `ReactiveCocoa` and requ
 ![Swift 2](https://img.shields.io/badge/Swift-2.1-orange.svg) ![ReactiveCocoa 4](https://img.shields.io/badge/ReactiveCocoa-4.0-green.svg)
 
 # Table of Contents
-1. [NSNotificationCenter](#NSNotificationCenter)
+1. [NSNotificationCenter](#nsnotificationcenter)
 2. [Contributing](#contributing)
 
 ## NSNotificationCenter
