@@ -9,7 +9,7 @@ Please note that this is not a pure beginners guide for `ReactiveCocoa` and requ
 
 # Table of Contents
 1. [NSNotificationCenter](#NSNotificationCenter)
-2. [Contributing](#Contributing)
+2. [Contributing](#contributing)
 
 ## NSNotificationCenter
 
